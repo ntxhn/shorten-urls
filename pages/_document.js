@@ -5,7 +5,7 @@ export default function Document() {
     <Html lang="en">
       <Head />
       <title>Magic Teleport</title>
-      <link rel="stylesheet" href="https://cdn.1998.media/css/fontawesome.css" />
+      <link rel="stylesheet" href="/assets/fontawesome.css" />
       <body>
         <Main />
         <NextScript />
